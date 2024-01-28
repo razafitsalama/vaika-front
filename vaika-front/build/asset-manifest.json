@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5150aaae.css",
+    "main.js": "/static/js/main.77622f9c.js",
+    "static/js/787.3d9014a1.chunk.js": "/static/js/787.3d9014a1.chunk.js",
+    "static/media/seatibiza.jpg": "/static/media/seatibiza.93e10f778453878239b6.jpg",
+    "index.html": "/index.html",
+    "main.5150aaae.css.map": "/static/css/main.5150aaae.css.map",
+    "main.77622f9c.js.map": "/static/js/main.77622f9c.js.map",
+    "787.3d9014a1.chunk.js.map": "/static/js/787.3d9014a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5150aaae.css",
+    "static/js/main.77622f9c.js"
+  ]
+}

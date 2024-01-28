@@ -1,0 +1,45 @@
+
+.annonces-fetcher {
+    margin-top: 100px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: #fff;
+    border: 1px solid #4caf50;
+    padding: 10px;
+    cursor: pointer;
+    transition: border-color 0.3s ease;
+    border-radius: 10px;
+  }
+  
+  button:hover {
+    border-color: #d22929;
+  }
+  .annonces-fetcher {
+    /*display: flex;*/
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* 100% de la hauteur de la vue */
+  }
+  
+  .liste-annonces {
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+  .login-page {
+    width: 300px;
+  }
